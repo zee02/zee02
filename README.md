@@ -1,6 +1,6 @@
 ### Boas, Sou o Zé - aka [zekikiko]👋
 
-[![Twitter](https://img.shields.io/twitter/follow/Zé?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ocsicnarfez)
+[![Twitter](https://img.shields.io/twitter/follow/ocsicnarfez?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ocsicnarfez)
 
 
 ## I'm a Student, Developer, and Teacher!!
