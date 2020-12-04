@@ -88,6 +88,6 @@
 
 </details>
 
-[twitter]: https://twitter.com/csicnarfez
+[twitter]: https://twitter.com/ocsicnarfez
 [instagram]: https://instagram.com/_ze.fernandes
 
