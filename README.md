@@ -3,7 +3,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/Zé?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ocsicnarfez)
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student, Developer, and Teacher!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
