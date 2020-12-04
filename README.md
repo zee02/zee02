@@ -1,15 +1,13 @@
-### Boas, Sou o Zé - aka [zekikiko]👋
+### Welcome to my profile 👋
 
 [![Twitter](https://img.shields.io/twitter/follow/ocsicnarfez?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ocsicnarfez)
 
 
-## I'm a Student, Developer, and Teacher!!
+## I'm a Student and Developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Finish my course and go to University
+- ⚡ Fun fact: I love gaming and socializing
 
 ### Connect with me:
 
