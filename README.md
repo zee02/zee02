@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Finish my course and go to University
-- ⚡ Fun fact: I love gaming and socializing
 
 ### Connect with me:
 
