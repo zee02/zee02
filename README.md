@@ -5,8 +5,8 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Finish my course and go to University
+Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected.”
+― Steve Jobs
 
 ### Connect with me:
 
