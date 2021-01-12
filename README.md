@@ -23,7 +23,7 @@ Be a yardstick of quality. Some people aren’t used to an environment where exc
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
 <img align="left" alt="Laravel" width="26px" src="https://surround-bg.com/wp-content/uploads/2018/10/laravel-logo.png" />
 <img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />
-<img align="left" alt="PHP" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Fphp-2038871&psig=AOvVaw30BxKSK1X0G9hDDrT5g31_&ust=1610544213568000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjcqfC-lu4CFQAAAAAdAAAAABAS" />
+<img align="left" alt="PHP" width="26px" src="https://prnt.sc/wltncn" />
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
