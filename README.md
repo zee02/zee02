@@ -1,9 +1,6 @@
-### Welcome to my profile 💻
+### Welcome to my profile
 
 [![Twitter](https://img.shields.io/twitter/follow/ocsicnarfez?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ocsicnarfez)
-
-
-## I'm a Student and Developer!!
 
 Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected.”
 ― Steve Jobs
