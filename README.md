@@ -38,7 +38,7 @@ Be a yardstick of quality. Some people aren’t used to an environment where exc
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Zé's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zekikiko&theme=dark&show_icons=true" />
+  <img align="left" alt="Zé's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zee02&theme=dark&show_icons=true" />
 
 </details>
 
