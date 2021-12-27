@@ -8,7 +8,7 @@ Be a yardstick of quality. Some people aren’t used to an environment where exc
 
 ### Connect with me:
 
-[<img align="left" alt="josé-fernandes-224123219/ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][instagram]
+[<img align="left" alt="josé-fernandes-224123219/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="_ze.fernandes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -45,4 +45,5 @@ Be a yardstick of quality. Some people aren’t used to an environment where exc
 
 [twitter]: https://twitter.com/ocsicnarfez
 [instagram]: https://instagram.com/_ze.fernandes
+[linkedin]: https://www.linkedin.com/in/josé-fernandes-224123219/
 
