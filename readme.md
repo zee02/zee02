@@ -43,7 +43,7 @@ Be a yardstick of quality. Some people aren’t used to an environment where exc
 
 </details>
 
-[twitter]: https://twitter.com/ocsicnarfez
+[twitter]: https://twitter.com/zefrancisco02
 [instagram]: https://instagram.com/_ze.fernandes
 [linkedin]: https://www.linkedin.com/in/josé-fernandes-224123219/
 
