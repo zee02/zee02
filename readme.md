@@ -1,16 +1,12 @@
 ### Welcome to my profile
 
-<a href="https://linkedin.com/in/josé-fernandes-224123219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé-fernandes-224123219" height="30" width="40" /></a>
-
 ### Student and Developer
 Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected.”
 ― Steve Jobs
 
 ### Connect with me:
 
-[<img align="left" alt="josé-fernandes-224123219/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="_ze.fernandes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="josé-fernandes-224123219/ | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" />][linkedin]
 
 <br />
 
@@ -33,7 +29,6 @@ Be a yardstick of quality. Some people aren’t used to an environment where exc
 <br />
 
 ---
-
 
 
 <details>
