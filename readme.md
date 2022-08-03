@@ -1,6 +1,6 @@
 ### Welcome to my profile
 
-[![Twitter]](https://www.linkedin.com/in/josé-fernandes-224123219/)
+<a href="https://linkedin.com/in/josé-fernandes-224123219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé-fernandes-224123219" height="30" width="40" /></a>
 
 ### Student and Developer
 Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected.”
