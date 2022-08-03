@@ -1,6 +1,6 @@
 ### Welcome to my profile
 
-[![Twitter](https://img.shields.io/twitter/follow/zefrancisco02?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/josé-fernandes-224123219/)
+[![Twitter]](https://www.linkedin.com/in/josé-fernandes-224123219/)
 
 ### Student and Developer
 Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected.”
