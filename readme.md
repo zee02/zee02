@@ -42,8 +42,3 @@ Be a yardstick of quality. Some people aren’t used to an environment where exc
   <img align="left" alt="Zé's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zee02&theme=dark&show_icons=true" />
 
 </details>
-
-[twitter]: https://twitter.com/zefrancisco02
-[instagram]: https://instagram.com/_ze.fernandes
-[linkedin]: https://www.linkedin.com/in/josé-fernandes-224123219/
-
